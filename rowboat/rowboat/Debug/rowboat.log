@@ -1,0 +1,3 @@
+﻿  rowboat.cpp
+C:\Users\bgb\Documents\C++\rowboat\rowboat\rowboat.cpp(93,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  rowboat.vcxproj -> C:\Users\bgb\Documents\C++\rowboat\Debug\rowboat.exe
